@@ -4,7 +4,7 @@ A mini e-commerce application demonstrating frontend, backend, database, and API
 
 ## Tech Stack
 
-- **Frontend**: Next.js 14, React, TypeScript
+- **Frontend**: Next.js, React, TypeScript
 - **Backend**: Node.js, Express, TypeScript
 - **Database**: MongoDB with Mongoose
 - **Authentication**: JWT (JSON Web Tokens)
